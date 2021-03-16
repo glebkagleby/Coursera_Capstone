@@ -1,0 +1,19 @@
+My small report 
+
+I have analyzed businesses located in Toronto area with the goal of 
+opening a restaurant in a place with the least amount of dining options. 
+
+The data used all comes from Foursquare database, which allows to query data for free for developers. 
+
+The Methodology applied relies on categorizing local businesses restricted to some location.  
+After categorizing I calculate the frequency at which different businesses appear 
+on the map of Toronto and choose the most popular businesses for each district.
+
+As a result I found a district in which there are almost no dining options, 
+which with my humble knowledge of business development 
+I estimate to be the best option to opening a small restaurant with the highest chance of attracting customers. 
+
+As a conclusion: by completing the courses on data science I realized 
+what kind of powerful tool it is and got an impression on how to use it. 
+
+It was a great opportunity! 
